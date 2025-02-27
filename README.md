@@ -49,7 +49,30 @@ The goal of this project was to:
 + Task vs. Outcome Monitoring
 + Drill-Down Capabilities
 
-## Glimpse of the Dashboard 🎥
-Explore the dashboard through the demo video: 👉
+## Live Demo 🌐
+Explore the dashboard through the link: 👉 https://app.powerbi.com/view?r=eyJrIjoiNWE0ZGFjZTEtOTUyYy00MTlhLWJmNDQtOTE3ZDBjZDM3NjU2IiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D
+
+## Key Insights 💡
++ Identified top performers based on revenue contribution.
++ Visualized daily performance trends to monitor consistency.
++ Highlighted cancellation rates to optimize operational efficiency.
++ Provided monthly comparison for stakeholders to take strategic actions.
+
+## What I Learned 🚀
++ How to clean messy datasets using Power Query.
++ Building DAX measures for business logic.
++ Understanding the importance of data storytelling.
++ Aligning data solutions with business objectives.
+
+## Conclusion 🔑
+This dashboard is a result of solving real business problems through data insights and visual storytelling.
+
+What matters most is not only the visuals but how those visuals help stakeholders make decisions and improve business performance.
+
+## Connect with Me 🔗
+If you're interested in my journey or have any feedback, let's connect:
+
+www.linkedin.com/in/didarul-islam71
+
 
 
