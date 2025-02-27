@@ -1,6 +1,6 @@
 # BI Dashboard - Sales and Performance Analysis
 
-![Dashboard Preview](https://github.com/Didar-Rashed/Owner-avatar-BI-Dashboard-Sale-and-Performance-Analysis/blob/main/Screenshot%202025-02-27%20220147.png)
+![Dashboard Preview](https://github.com/Didar-Rashed/Owner-avatar-BI-Dashboard-Sale-and-Performance-Analysis/blob/main/Screenshot%202025-02-27%20222428.png)
 
 ***
 ## Introduction
@@ -22,12 +22,34 @@ The goal of this project was to:
 + Develop a dynamic dashboard that meets stakeholders' expectations.
 
 ## Metrics Created 📊
- ++ Total Orders
-Successful Orders
-Cancelled Orders
-Revenue
-Order Success Rate
-Daily & Monthly Performance
-Top Performers
-Revenue Contribution by Users
-Time-Based Performance Trends
+ + Field Collections and Total
+ + Applications Status
+ + Total Orders Orders
+ + Total Visitors
+ + Revenue
+ + Order Success Rate
+ + Daily & Monthly Performance
+ + Top Performers
+ + Revenue Contribution by Users
+ + Time-Based Performance Trends and so on..
+
+## Tools Used 💻
+| Technology | Usage |
+|----------|----------|
+| Microsoft Power BI   | Data Visualization   |
+| DAX   | Metric Calculations   |
+| Power Query  | Data Cleaning   |
+| Google Sheet  | Data Source   |
+
+## Features 🔑
++ Fully Interactive Dashboard
++ Custom KPIs & Measures
++ Visual-rich User Performance Analysis
++ Dynamic Filtering for Monthly and Daily Analysis
++ Task vs. Outcome Monitoring
++ Drill-Down Capabilities
+
+## Glimpse of the Dashboard 🎥
+Explore the dashboard through the demo video: 👉
+
+
